@@ -29,7 +29,7 @@
 1. [First commit](https://github.com/akalitvyanskiy/git-hw)
 
 `При необходимости прикрепитe сюда скриншоты`
-![first_commit](https://github.com/akalitvyanskiy/8-01-hw.git/main/img/first_commit.png)
+![first_commit](https://github.com/akalitvyanskiy/8-01-hw/blob/main/img/first_commit.png)
 
 
 ---
