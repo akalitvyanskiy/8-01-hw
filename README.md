@@ -38,7 +38,7 @@
 
 Приведите ответ в свободной форме........
 
-1. [commit_gitignore](https://github.com/akalitvyanskiy/git-hw/commit/f987cd46fedaf6038675c9c33760dcbf21a70f23)
+1. [commit_gitignore](https://github.com/akalitvyanskiy/8-01-hw/commit/f987cd46fedaf6038675c9c33760dcbf21a70f23)
 
 
 ---
