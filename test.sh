@@ -3,3 +3,4 @@
 3. Запись 3 commit 3
 4. Запись 4 commit 4
 5. Запись 5 commit 5
+6. Запись 6 coomit 6
